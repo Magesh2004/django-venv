@@ -1,0 +1,8 @@
+img{
+    height: 380px;
+    width: 380px;
+    margin-top: 50px;
+    margin-left: 100px;
+    box-shadow:5px 5px 15px 1px black ;
+    border-radius: 20px;
+}
